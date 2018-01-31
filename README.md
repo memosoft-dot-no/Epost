@@ -1,3 +1,3 @@
-## Forslag på E-post redesign
+## Korrektur
 
-[Link](Epost/korrektur.html)
+[Link](/Epost/korrektur.html)
