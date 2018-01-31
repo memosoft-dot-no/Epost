@@ -1,15 +1,18 @@
 ## Korrektur
-
 [Link](https://memosoft-dot-no.github.io/Epost/korrektur.html)
 
-## Bildeopplasting
 
+## Bildeopplasting
 [Link](https://memosoft-dot-no.github.io/Epost/upload.html)
 
-## Passord
 
+## Passord
 [Link](https://memosoft-dot-no.github.io/Epost/passord.html)
 
-## QR-kode
 
+## QR-kode
 [Link](https://memosoft-dot-no.github.io/Epost/qrkode.html)
+
+
+## Trykkfiler
+[Link](https://memosoft-dot-no.github.io/Epost/print.html)
