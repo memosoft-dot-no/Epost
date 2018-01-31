@@ -1,3 +1,3 @@
 ## Korrektur
 
-[Link](/Epost/korrektur.html)
+[Korrektur](https://memosoft-dot-no.github.io/Epost/korrektur.html)
